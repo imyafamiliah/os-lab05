@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "os-lab05", "os-lab05\os-lab05.vcproj", "{F8C85686-34DF-4112-A160-779E5BF28937}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL", "DLL\DLL.vcproj", "{F9CDBF53-B1C5-4E24-96A4-3BF36071E043}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dlluser", "dlluser\dlluser.vcproj", "{1E9FF340-951D-4D57-802A-5D635039E406}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9CDBF53-B1C5-4E24-96A4-3BF36071E043} = {F9CDBF53-B1C5-4E24-96A4-3BF36071E043}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C85686-34DF-4112-A160-779E5BF28937}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8C85686-34DF-4112-A160-779E5BF28937}.Debug|Win32.Build.0 = Debug|Win32
+		{F8C85686-34DF-4112-A160-779E5BF28937}.Release|Win32.ActiveCfg = Release|Win32
+		{F8C85686-34DF-4112-A160-779E5BF28937}.Release|Win32.Build.0 = Release|Win32
+		{F9CDBF53-B1C5-4E24-96A4-3BF36071E043}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9CDBF53-B1C5-4E24-96A4-3BF36071E043}.Debug|Win32.Build.0 = Debug|Win32
+		{F9CDBF53-B1C5-4E24-96A4-3BF36071E043}.Release|Win32.ActiveCfg = Release|Win32
+		{F9CDBF53-B1C5-4E24-96A4-3BF36071E043}.Release|Win32.Build.0 = Release|Win32
+		{1E9FF340-951D-4D57-802A-5D635039E406}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E9FF340-951D-4D57-802A-5D635039E406}.Debug|Win32.Build.0 = Debug|Win32
+		{1E9FF340-951D-4D57-802A-5D635039E406}.Release|Win32.ActiveCfg = Release|Win32
+		{1E9FF340-951D-4D57-802A-5D635039E406}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

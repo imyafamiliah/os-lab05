@@ -1,0 +1,47 @@
+commit c99d1b1b6defa0ad68704270cad694803799c42e
+Author: Alexandr Zhirkov <alexandrjirkoff@gmail.com>
+Date:   Fri Dec 1 12:18:18 2017 +1000
+
+    task15
+
+commit ce37b911883eb83923a2da78b10344a605682568
+Author: Alexandr Zhirkov <alexandrjirkoff@gmail.com>
+Date:   Fri Nov 24 13:13:03 2017 +1000
+
+    +dlluser project
+
+commit cf4cdd9554b117066bf2bf7ae2aeba114df53db2
+Author: Alexandr Zhirkov <alexandrjirkoff@gmail.com>
+Date:   Fri Nov 24 13:04:12 2017 +1000
+
+    +dll project
+
+commit d698a4f761767958b5ad452d1a0a75a564d96b10
+Author: Alexandr Zhirkov <alexandrjirkoff@gmail.com>
+Date:   Fri Nov 24 12:45:18 2017 +1000
+
+    task8
+
+commit 181715640e89d5506cd5f79a0229acd050a94c8e
+Author: Alexander Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Fri Nov 24 11:39:36 2017 +0900
+
+    +VS2015 project
+
+commit adcc7d2a4a75f3b57b1fb1e20b897e2c9d887491
+Author: Alexander Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Fri Nov 24 11:23:57 2017 +0900
+
+    _count -> _n
+
+commit 7c4c423ba7f98cfffa9a3d8ef0a9abb321c6daee
+Author: Alexander Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Fri Nov 24 11:21:37 2017 +0900
+
+    printf local_count
+
+commit 850f0bee2708df0f2e3deb3d12591f36ca7b498e
+Author: Alexander Pavlov <7911562+av-pavlov@users.noreply.github.com>
+Date:   Fri Nov 24 11:19:45 2017 +0900
+
+    Лаб. р. № 5 - Сборка
